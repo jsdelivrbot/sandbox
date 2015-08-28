@@ -1,16 +1,18 @@
-[{
-  "username": "robertkoak",
-  "email": "robertkoak@someemail.com",
-  "accountNumber": "1234567890",
-  "active": "false"
-},{
-  "username": "bobbafett",
-  "email": "bobbafett@bounty.com",
-  "accountNumber": "1238973128",
-  "active": "true"
-},{
-  "username": "jiangofett",
-  "email": "jiangofett@daddy.com",
-  "accountNumber": "9782139",
-  "active": "true"
-}]
+{
+  "items"=[{
+    "username": "robertkoak",
+    "email": "robertkoak@someemail.com",
+    "accountNumber": "1234567890",
+    "active": "false"
+  },{
+    "username": "bobbafett",
+    "email": "bobbafett@bounty.com",
+    "accountNumber": "1238973128",
+    "active": "true"
+  },{
+    "username": "jiangofett",
+    "email": "jiangofett@daddy.com",
+    "accountNumber": "9782139",
+    "active": "true"
+  }]
+}
