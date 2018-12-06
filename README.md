@@ -1,4 +1,4 @@
 # sandbox
 
 
-https://rawgit.com/tkoa001/sandbox/master/example.json
+https://cdn.jsdelivr.net/gh/tkoa001/sandbox/example.json
